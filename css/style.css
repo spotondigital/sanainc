@@ -29,6 +29,17 @@
     display: block;
 }
 
+.footer-logo {
+    margin-bottom: 25px;
+}
+
+.footer-logo img {
+    width: 150px;      /* Adjust as needed */
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+}
+
 
 body{
     font-family:'Open Sans',sans-serif;
@@ -114,7 +125,7 @@ h1,h2,h3,h4,h5,h6{
 
 #colorlib-logo img.main-logo {
     height: 90px;
-    width: auto;
+    width: 100%;
     display: block;
 }
 
